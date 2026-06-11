@@ -1,5 +1,13 @@
 # Gino Clancker
 
+
+
+
+
+
+
+
+
 Gino parlerà con te utilizzando le informazioni che gli fornirai in un file di testo "document.txt".
 Ti servirà però un qualcosa da usare come server remoto brochaccio.
 La situa dovrebbe esser qualcosa del genere:
